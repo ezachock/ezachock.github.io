@@ -15,32 +15,26 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
   http://www.modularscale.com/?18&px&1.2&web&text
 */
 
-
 html {
   font-size: 1.125em; /* 18px */
   line-height: 1.222em; /* 22px = 1 gridline*/
   background-color: #181860;
   color: #F0F0F0;
 }
-
 h1 {
   font-size: 2.488em; /* 44.79px */
   padding-bottom: 0.694em; /* 12.5px */
 }
-
 p,
 ul {
   padding-bottom: 1.222em; /* 22px */
 }
-
 li {
   padding-bottom: 0.611em; /* 11px = half gridline*/
 }
-
 li:last-child {
   padding-bottom: 0;
 }
-
 img {
   display: block;
   max-width: 100%;
@@ -57,8 +51,4 @@ img {
 }
 .photo {
   margin-right: 1.222em; /* 22px */
-}
-#navigation {
-  position: absolute;
-  top: 0;
 }
