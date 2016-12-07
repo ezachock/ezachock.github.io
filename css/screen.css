@@ -24,8 +24,8 @@ html {
 }
 
 h1 {
-  font-size: 1.728em; /* 31.104px */
-  line-height: 
+  font-size: 2.488em; /* 44.79px */
+  padding-bottom: 0.694em; /* 12.5px */
 }
 
 p,
@@ -47,3 +47,18 @@ img {
 }
 
 /* ===== LAYOUT STYLES ===== */
+
+#body {
+  padding: 1.222em; /* 22px */
+  margin-left: 1.222em; /* 22px */
+}
+#header {
+  padding-top: 1.222em; /* 22px */ 
+}
+.photo {
+  margin-right: 1.222em; /* 22px */
+}
+#navigation {
+  position: absolute;
+  top: 0;
+}
